@@ -18,3 +18,23 @@ c:\users\as\documents\visual studio 2015\Projects\AmsTypeScript\AmsTypeScript\bi
 c:\users\as\documents\visual studio 2015\Projects\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.csprojResolveAssemblyReference.cache
 c:\users\as\documents\visual studio 2015\Projects\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.dll
 c:\users\as\documents\visual studio 2015\Projects\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.pdb
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\csc.exe
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\vbc.exe
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\VBCSCompiler.exe
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\AmsTypeScript.dll.config
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\AmsTypeScript.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\AmsTypeScript.pdb
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.csprojResolveAssemblyReference.cache
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsTypeScript\obj\Debug\AmsTypeScript.pdb

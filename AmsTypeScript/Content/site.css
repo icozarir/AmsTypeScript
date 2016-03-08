@@ -1,0 +1,127 @@
+﻿body {
+    font-family: 'Abel', sans-serif;
+}
+
+input {
+    font-size: 18px;
+}
+
+    input[ type="text"] {
+        background-color: #FEFEFE;
+        height: 35px;
+        padding-left: 5px;
+    }
+
+.menuContainer {
+    background-color: #EAEAEA;
+    border-color: #DCDCDC;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-size: 28px;
+}
+
+.navbar-default .navbar-nav > .active > a {
+background-color: #6EA5CC;
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color:#777;
+    font-size:26px;
+}
+
+.inputController {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.gridViewContainer {
+    padding: 5px 5px 3px 5px;
+    border: 1px solid #C3C3C3;
+    float: left;
+    margin: 5px;
+    background-color: #DDF0FD;
+    min-width: 160px;
+}
+
+    .gridViewContainer .actionIcon {
+        cursor: pointer;
+        color: #A2A2A2;
+    }
+
+    .gridViewContainer .red {
+        color: #FFA5A5;
+    }
+
+    .gridViewContainer .info {
+        float: left;
+    }
+
+    .gridViewContainer .name {
+        margin-left: 10px;
+        font-size:12px;
+    }
+
+    .gridViewContainer .email {
+        margin-left: 10px;
+        font-size:10px;
+    }
+
+    .gridViewContainer .number {
+        float: left;
+        background-color: #6EA5CC;
+        width: 35px;
+        border-radius: 8px;
+        padding: 5px;
+        text-align: center;
+        font-weight: bold;
+        color: #FFF;
+    }
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .gridViewContainer {
+        min-width: 170px;
+    }
+
+        .gridViewContainer .name {
+            font-size: 14px;
+        }
+
+        .gridViewContainer .email {
+            font-size: 12px;
+        }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .gridViewContainer {
+        min-width: 175px;
+    }
+        .gridViewContainer .name {
+            font-size: 14px;
+        }
+
+        .gridViewContainer .email {
+            font-size: 12px;
+        }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .gridViewContainer {
+        min-width: 215px;
+    }
+        .gridViewContainer .name {
+            font-size: 16px;
+        }
+
+        .gridViewContainer .email {
+            font-size: 14px;
+        }
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmsTypeScript", "AmsTypeScript\AmsTypeScript.csproj", "{6F8F3242-D0DA-42C7-8A32-1CC645E1738E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmsDomain", "Test\AmsDomain.csproj", "{1354541B-6DC5-4E10-BE24-75706687A941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmsWebApi", "AmsWebApi\AmsWebApi.csproj", "{18E1085A-37DF-4920-99BA-2246E2939EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8F3242-D0DA-42C7-8A32-1CC645E1738E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8F3242-D0DA-42C7-8A32-1CC645E1738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8F3242-D0DA-42C7-8A32-1CC645E1738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8F3242-D0DA-42C7-8A32-1CC645E1738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1354541B-6DC5-4E10-BE24-75706687A941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1354541B-6DC5-4E10-BE24-75706687A941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1354541B-6DC5-4E10-BE24-75706687A941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1354541B-6DC5-4E10-BE24-75706687A941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E1085A-37DF-4920-99BA-2246E2939EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E1085A-37DF-4920-99BA-2246E2939EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E1085A-37DF-4920-99BA-2246E2939EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E1085A-37DF-4920-99BA-2246E2939EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

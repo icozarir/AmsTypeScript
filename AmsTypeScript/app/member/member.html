@@ -1,0 +1,14 @@
+﻿<div ng-controller="MemberController as vm">
+
+    <div class="inputController">
+        <input type="text" placeholder="Sök medlem" ng-model="vm.searchText" ng-model-options='{ debounce: 500 }'/>
+    </div>
+
+    <div class="gridViewContainer" ng-repeat="member in vm.listOfMembers | filter:vm.searchText track by $index">
+        <div class="number">{{member.memberNumber}}</div>
+        <div class="info">
+            <div class="name">{{member.getName()}}</div>
+            <div class="email">{{member.email}}</div>
+        </div>
+    </div>
+</div>

@@ -3,7 +3,3 @@ C:\Users\as\documents\visual studio 2015\Projects\AmsTypeScript\Test\bin\Debug\T
 C:\Users\as\documents\visual studio 2015\Projects\AmsTypeScript\Test\obj\Debug\AmsDomain.csprojResolveAssemblyReference.cache
 C:\Users\as\documents\visual studio 2015\Projects\AmsTypeScript\Test\obj\Debug\Test.dll
 C:\Users\as\documents\visual studio 2015\Projects\AmsTypeScript\Test\obj\Debug\Test.pdb
-C:\Users\as\Documents\GitHub\AmsTypeScript\Test\bin\Debug\Test.dll
-C:\Users\as\Documents\GitHub\AmsTypeScript\Test\bin\Debug\Test.pdb
-C:\Users\as\Documents\GitHub\AmsTypeScript\Test\obj\Debug\Test.dll
-C:\Users\as\Documents\GitHub\AmsTypeScript\Test\obj\Debug\Test.pdb

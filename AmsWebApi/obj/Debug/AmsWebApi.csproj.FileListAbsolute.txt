@@ -46,11 +46,14 @@ C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\AmsWebApi.pdb
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Newtonsoft.Json.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Cors.dll
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Http.Cors.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Http.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Http.WebHost.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Test.dll
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Test.pdb
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Http.Cors.xml
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\Newtonsoft.Json.xml
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Net.Http.Formatting.xml
 C:\Users\as\Documents\GitHub\AmsTypeScript\AmsWebApi\bin\System.Web.Http.xml

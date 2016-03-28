@@ -129,6 +129,8 @@
     <Content Include="app\member\member.html" />
     <Content Include="app\member\member.js" />
     <Content Include="app\member\memberCtrl.js" />
+    <Content Include="app\member\memberDetail.html" />
+    <Content Include="app\member\memberDetailCtrl.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -208,6 +210,7 @@
     <TypeScriptCompile Include="app\common\services.ts" />
     <TypeScriptCompile Include="app\member\member.ts" />
     <TypeScriptCompile Include="app\member\memberCtrl.ts" />
+    <TypeScriptCompile Include="app\member\memberDetailCtrl.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-animate.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-component-router.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-cookies.d.ts" />
